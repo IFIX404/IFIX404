@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Wiliam Patiño</h1>
-<div align="center">
-  <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-</div>
 <h3 align="center">As a junior programmer, I love what I do and am especially passionate about web development with HTML, CSS, JS and Java. I like to face challenges and solve complex problems in my daily work. I strive to continually learn and improve my skills and knowledge to stay current in the field of programming.</h3>
 
 - 🔭 I’m currently working on [calculadora-](https://github.com/IFIX404/calculadora-)
