@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wiliam Patiño</h1>
+<img align="center"src=["/images/funny.gif"](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogrammer-gifs&psig=AOvVaw04JF3y4C3Obnhr94jEQtYn&ust=1677719784503000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPD-3qzHuf0CFQAAAAAdAAAAABAE) alt="Funny image">
 <h3 align="center">As a junior programmer, I love what I do and am especially passionate about web development with HTML, CSS, JS and Java. I like to face challenges and solve complex problems in my daily work. I strive to continually learn and improve my skills and knowledge to stay current in the field of programming.</h3>
 
 - 🔭 I’m currently working on [calculadora-](https://github.com/IFIX404/calculadora-)
