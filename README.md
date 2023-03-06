@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wiliam Patiño</h1>
 <h3 align="center">As a junior programmer, I love what I do and am especially passionate about web development with HTML, CSS, JS and Java. I like to face challenges and solve complex problems in my daily work. I strive to continually learn and improve my skills and knowledge to stay current in the field of programming.</h3>
 
-- 🔭 I’m currently working on [calculadora-](https://github.com/IFIX404/calculadora-)
+- 🔭 I’m currently working on [calculadora-](https://github.com/IFIX404/Calculadora)
 
 - 🌱 I’m currently learning **java and the springboot framework**
 
